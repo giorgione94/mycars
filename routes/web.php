@@ -24,10 +24,4 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::resource('cars', App\Http\Controllers\CarController::class);
 
-// * index visualizzazione della lista
-// * show visualizzazione di un singolo record
-// * create visualizzare il form di creazione
-// store ricevere i dati sottoscritti tramite il form di creazione
-// * edit visualizzare il form di modifica
-// update ricevere i dati sottoscritti dal form di modifica
-// * destroy ricevere i dati sottoscritti dal bottone di cancellazione
+

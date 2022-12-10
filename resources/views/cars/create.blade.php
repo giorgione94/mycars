@@ -18,6 +18,11 @@
                         </div>
 
                         <div class="m-3">
+                            <label for="description" class="form-label">Description</label>
+                            <input type="textarea" name="description" class="form-control">
+                        </div>
+
+                        <div class="m-3">
                             <label for="image" class="form-label">Image</label>
                             <input type="file" name="image" class="form-control">
                         </div>

@@ -16,8 +16,8 @@
                 <th>Model</th>
                 <th>Image</th>
                 <th>Logo</th>
-                <th>Delete</th>
-                <th>Show</th>
+                <th></th>
+                <th></th>
             </thead>
             <tbody class="table-dark table-striped">
                 @foreach ($cars as $car)

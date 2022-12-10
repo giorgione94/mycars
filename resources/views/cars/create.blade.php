@@ -19,7 +19,7 @@
 
                         <div class="m-3">
                             <label for="description" class="form-label">Description</label>
-                            <input type="textarea" name="description" class="form-control">
+                            <textarea name="description" cols="30" rows="10" class="form-control"></textarea>
                         </div>
 
                         <div class="m-3">
